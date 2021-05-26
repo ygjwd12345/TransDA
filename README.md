@@ -39,10 +39,7 @@ mv R50+ViT-B_16.npz ./model/vit_checkpoint/imagenet21k/R50+ViT-B_16.npz
     sh run_visda.sh
     ```
 # Reference
-[BTS](https://github.com/cogaplex-bts/bts)
 
 [ViT](https://github.com/jeonsworld/ViT-pytorch)
-
-[Do‘s code](https://github.com/MARSLab-UMN/TiltedImageSurfaceNormal)
 
 [SHOT](https://github.com/tim-learn/SHOT)
