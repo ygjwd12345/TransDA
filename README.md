@@ -42,4 +42,6 @@ mv R50+ViT-B_16.npz ./model/vit_checkpoint/imagenet21k/R50+ViT-B_16.npz
 
 [ViT](https://github.com/jeonsworld/ViT-pytorch)
 
+[TransUNet](https://github.com/Beckschen/TransUNet)
+
 [SHOT](https://github.com/tim-learn/SHOT)
