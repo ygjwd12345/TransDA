@@ -1,5 +1,6 @@
 # Official implementation for TransDA
 Official pytorch implement for [“Transformer-Based Source-Free Domain Adaptation”](https://arxiv.org/abs/2105.14138).
+Accepted by APIN 2022
 ## Overview:
 <img src="image/overview.png" width="1000"/>
 
